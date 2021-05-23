@@ -1,6 +1,6 @@
 class HomeController < ApplicationController
   def index
-    @name="Скбдшшшшшшш"
+    @name="Скбдшшш"
   end
   def descriptions
   end
